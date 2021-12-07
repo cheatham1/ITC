@@ -1,7 +1,7 @@
 # ITC
 
-##Tableau Workbook: Funding Page
-###Tabs: 
+## Tableau Workbook: Funding Page
+#### Tabs: 
  - DataSource:
  -  Map: Regions shown on World map
  - w1w2bar: Barchart showing funding by year and budget type
