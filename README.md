@@ -1,5 +1,3 @@
 # ITC
 
-Bearer token to be added to JS
-
-var JWTtoken = <ENTER BEARER TOKEN HERE>
+Fow the webdataconnector: Bearer token needs to be added to JS (var JWTtoken = <ENTER BEARER TOKEN HERE>)
